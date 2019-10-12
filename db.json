@@ -10,7 +10,7 @@
                             "description": "descripcion",
                             "precio": 100000,
                             "tallas": "X M L S"
-                        },
+                        }, 
                         {
                             "id": 2,
                             "name": "Camisa 2",
