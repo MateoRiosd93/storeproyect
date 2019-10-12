@@ -1,0 +1,555 @@
+{
+    "productos": [
+        {
+            "urbana": [
+                {
+                    "camisas": [
+                        {
+                            "id": 1,
+                            "name": "Camisa 1",
+                            "description": "descripcion",
+                            "precio": 100000,
+                            "tallas": "X M L S"
+                        }, 
+                        {
+                            "id": 2,
+                            "name": "Camisa 2",
+                            "description": "descripcion",
+                            "precio": 12500,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Camisa 3",
+                            "description": "descripcion",
+                            "precio": 256220,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Camisa 4",
+                            "description": "descripcion",
+                            "precio": 1545202,
+                            "tallas": "X M L S"
+                        }
+                    ]
+                },
+                {
+                    "jeans": [
+                        {
+                            "id": 1,
+                            "name": "Jean 1",
+                            "description": "descripcion",
+                            "precio": 301524,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Jean 2",
+                            "description": "descripcion",
+                            "precio": 154520,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Jean 3",
+                            "description": "descripcion",
+                            "precio": 12450,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Jean 4",
+                            "description": "descripcion",
+                            "precio": 50012,
+                            "tallas": "X M L S"
+                        }
+                    ]
+                },
+                {
+                    "gorras": [
+                        {
+                            "id": 1,
+                            "name": "Gorra 1",
+                            "description": "descripcion",
+                            "precio": 25000,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Gorra 1",
+                            "description": "descripcion",
+                            "precio": 1545221,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Gorra 3",
+                            "description": "descripcion",
+                            "precio": 124544,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Gorra 4",
+                            "description": "descripcion",
+                            "precio": 145210,
+                            "tallas": "X M L S"
+                        }
+                    ]
+                },
+                {
+                    "busos": [
+                        {
+                            "id": 1,
+                            "name": "Buso 1",
+                            "description": "descripcion",
+                            "precio": 145211,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Buso 2",
+                            "description": "descripcion",
+                            "precio": 145580,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Buso 3",
+                            "description": "descripcion",
+                            "precio": 154854,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Buso 4",
+                            "description": "descripcion",
+                            "precio": 1455240,
+                            "tallas": "X M L S"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "deportiva": [
+                {
+                    "camisas": [
+                        {
+                            "id": 1,
+                            "name": "Camisa 1",
+                            "description": "descripcion",
+                            "precio": 251200,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Camisa 2",
+                            "description": "descripcion",
+                            "precio": 1545210,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Camisa 3",
+                            "description": "descripcion",
+                            "precio": 1554420,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Camisa 4",
+                            "description": "descripcion",
+                            "precio": 145244,
+                            "tallas": "X M L S"
+                        }
+                    ]
+                },
+                {
+                    "jeans": [
+                        {
+                            "id": 1,
+                            "name": "Jean 1",
+                            "description": "descripcion",
+                            "precio": 145520,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Jean 2",
+                            "description": "descripcion",
+                            "precio": 155240,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Jean 3",
+                            "description": "descripcion",
+                            "precio": 1522450,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Jean 4",
+                            "description": "descripcion",
+                            "precio": 1452200,
+                            "tallas": "X M L S"
+                        }
+                    ]
+                },
+                {
+                    "gorras": [
+                        {
+                            "id": 1,
+                            "name": "Gorra 1",
+                            "description": "descripcion",
+                            "precio": 125200,
+                            "tallas": ""
+                        },
+                        {
+                            "id": 2,
+                            "name": "Gorra 2",
+                            "description": "descripcion",
+                            "precio": 15200,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Gorra 3",
+                            "description": "descripcion",
+                            "precio": 152020,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Gorra 4",
+                            "description": "descripcion",
+                            "precio": 201500,
+                            "tallas": "X M L S"
+                        }
+                    ]
+                },
+                {
+                    "busos": [
+                        {
+                            "id": 1,
+                            "name": "Buso 1",
+                            "description": "descripcion",
+                            "precio": 15010,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Buso 2",
+                            "description": "descripcion",
+                            "precio": 15020,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Buso 3",
+                            "description": "descripcion",
+                            "precio": 15200,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 4,
+                            "name": "buso4",
+                            "description": "descripcion",
+                            "precio": 52000,
+                            "tallas": "X M L S"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "casual": [
+                {
+                    "camisas": [
+                        {
+                            "id": 1,
+                            "name": "Camisa 1",
+                            "description": "descripcion",
+                            "precio": 1548720,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 2,
+                            "name": "camisa 2",
+                            "description": "descripcion",
+                            "precio": 32010,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 3,
+                            "name": "camisa 3",
+                            "description": "descripcion",
+                            "precio": 12050,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 4,
+                            "name": "camisa 4",
+                            "description": "descripcion",
+                            "precio": 14500,
+                            "tallas": "X M L S"
+                        }
+                    ]
+                },
+                {
+                    "jeans": [
+                        {
+                            "id": 1,
+                            "name": "Jean 1",
+                            "description": "descripcion",
+                            "precio": 145520,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Jean 2",
+                            "description": "descripcion",
+                            "precio": 155240,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Jean 3",
+                            "description": "descripcion",
+                            "precio": 1522450,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Jean 4",
+                            "description": "descripcion",
+                            "precio": 1452200,
+                            "tallas": "X M L S"
+                        }
+                    ]
+                },
+                {
+                    "gorras": [
+                        {
+                            "id": 1,
+                            "name": "Gorra 1",
+                            "description": "descripcion",
+                            "precio": 125200,
+                            "tallas": ""
+                        },
+                        {
+                            "id": 2,
+                            "name": "Gorra 2",
+                            "description": "descripcion",
+                            "precio": 15200,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Gorra 3",
+                            "description": "descripcion",
+                            "precio": 152020,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Gorra 4",
+                            "description": "descripcion",
+                            "precio": 201500,
+                            "tallas": "X M L S"
+                        }
+                    ]
+                },
+                {
+                    "busos": [
+                        {
+                            "id": 1,
+                            "name": "Buso 1",
+                            "description": "descripcion",
+                            "precio": 15010,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Buso 2",
+                            "description": "descripcion",
+                            "precio": 15020,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Buso 3",
+                            "description": "descripcion",
+                            "precio": 15200,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 4,
+                            "name": "buso4",
+                            "description": "descripcion",
+                            "precio": 52000,
+                            "tallas": "X M L S"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clasica": [
+                {
+                    "camisas": [
+                        {
+                            "id": 1,
+                            "name": "Camisa 1",
+                            "description": "descripcion",
+                            "precio": 1548720,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 2,
+                            "name": "camisa 2",
+                            "description": "descripcion",
+                            "precio": 32010,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 3,
+                            "name": "camisa 3",
+                            "description": "descripcion",
+                            "precio": 12050,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 4,
+                            "name": "camisa 4",
+                            "description": "descripcion",
+                            "precio": 14500,
+                            "tallas": "X M L S"
+                        }
+                    ]
+                },
+                {
+                    "jeans": [
+                        {
+                            "id": 1,
+                            "name": "Jean 1",
+                            "description": "descripcion",
+                            "precio": 145520,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Jean 2",
+                            "description": "descripcion",
+                            "precio": 155240,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Jean 3",
+                            "description": "descripcion",
+                            "precio": 1522450,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Jean 4",
+                            "description": "descripcion",
+                            "precio": 1452200,
+                            "tallas": "X M L S"
+                        }
+                    ]
+                },
+                {
+                    "gorras": [
+                        {
+                            "id": 1,
+                            "name": "Gorra 1",
+                            "description": "descripcion",
+                            "precio": 125200,
+                            "tallas": ""
+                        },
+                        {
+                            "id": 2,
+                            "name": "Gorra 2",
+                            "description": "descripcion",
+                            "precio": 15200,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Gorra 3",
+                            "description": "descripcion",
+                            "precio": 152020,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Gorra 4",
+                            "description": "descripcion",
+                            "precio": 201500,
+                            "tallas": "X M L S"
+                        }
+                    ]
+                },
+                {
+                    "busos": [
+                        {
+                            "id": 1,
+                            "name": "Buso 1",
+                            "description": "descripcion",
+                            "precio": 15010,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Buso 2",
+                            "description": "descripcion",
+                            "precio": 15020,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Buso 3",
+                            "description": "descripcion",
+                            "precio": 15200,
+                            "tallas": "X M L S"
+                        },
+                        {
+                            "id": 4,
+                            "name": "buso4",
+                            "description": "descripcion",
+                            "precio": 52000,
+                            "tallas": "X M L S"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "clientes": [
+        {
+            "id": 1,
+            "name": "Mateo Rios",
+            "celular": 3104256562,
+            "email": "mateorios993@gmail.com",
+            "icon": ""
+        },
+        { 
+            "id": 2,
+            "name": "Santiago Rios",
+            "celular": 3015841294,
+            "email": "santi_diaz17@gmail.com",
+            "icon": ""
+        },
+        {
+            "id": 3,
+            "name": "Carlos Lopera ",
+            "celular": 3217742276,
+            "email": "carlos_lopera@gmail.com",
+            "icon": ""
+        }
+    ]
+}
